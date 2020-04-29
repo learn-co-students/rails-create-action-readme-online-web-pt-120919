@@ -127,3 +127,4 @@ the post they just created. In future lessons, we'll refactor this further to
 incorporate awesome Rails components like `strong parameters` and `error handling`, but don't worry about those yet. Great job!
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/rails-create-action-readme'>Create Action</a> on Learn.co and start learning to code for free.</p>
+
